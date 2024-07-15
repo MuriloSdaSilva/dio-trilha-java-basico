@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="controle-fluxo-condicionais" />
+        <module name="controle-fluxo" />
       </profile>
     </annotationProcessing>
   </component>
